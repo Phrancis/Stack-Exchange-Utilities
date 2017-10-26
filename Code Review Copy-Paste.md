@@ -2,7 +2,7 @@
 
 The normal text preview is for reference. For copy-paste purposes, triple-click the text block and copy the text; once you paste it on the site the markdown will be formatted correctly.
 
-Note that, for first time users, it is a good idea to add _"Welcome to Code Review."_ in front of the block of text, to make the user feel welcome even if their question is poor or off-topic.
+Note that, for first time users, it is a good idea to add _"Welcome to Code Review."_ in front of the block of text, to make the user feel welcome even if their first post is poor or off-topic.
 
 ## For Questions
 
@@ -128,7 +128,7 @@ Use for answers which are mostly or entirely links to another site, whether poin
 Link-only answers are discouraged in part because links can become stale or broken, and also because it doesn't really provide a review of the code in question. See [How do I write a good answer?](https://codereview.stackexchange.com/help/how-to-answer) for reference.
 ```
 
-## Answer which is a Question
+### Answer which is a Question
 
 Use for answers which really should be questions of their own. 
 
@@ -136,4 +136,34 @@ Use for answers which really should be questions of their own.
 
 ```
 This isn't an answer to the question. If you have another question, please ask it by clicking the [Ask Question](http://codereview.stackexchange.com/questions/ask) button. If you are uncertain, take a look at [How do I ask a good question?](https://codereview.stackexchange.com/help/how-to-ask)
+```
+
+### Non-Review / Alternative Solution
+
+Use for answers of the style _"try this instead"_ to encourage the writer to add explanation to their answer.
+
+> You have presented an alternative solution, but haven't reviewed the code. Please explain your reasoning (how your solution works and why it is better than the original) so that the author and other readers can learn from your thought process.
+
+```
+You have presented an alternative solution, but haven't reviewed the code. Please explain your reasoning (how your solution works and why it is better than the original) so that the author and other readers can learn from your thought process.
+```
+
+### Answer Asking for Clarification
+
+Use for answers that really should be a comment. There are 2 variations, based on the reputation of the user.
+
+1. Use has less than 50 reputation, and thus cannot comment on others' posts:
+
+> This is really a comment, not an answer. With a bit more rep, [you will be able to post comments](http://meta.codereview.stackexchange.com/privileges/comment). For the moment I've added the comment for you, and I'm flagging this post for deletion.
+
+```
+This is really a comment, not an answer. With a bit more rep, [you will be able to post comments](http://meta.codereview.stackexchange.com/privileges/comment). For the moment I've added the comment for you, and I'm flagging this post for deletion.
+```
+
+2. User has 50 or more reputation, and thus is able to comment:
+
+> This is really a comment, not an answer. Please use comments to ask for clarification, rather than using an answer post. I'm flagging this post for deletion.
+
+```
+This is really a comment, not an answer. Please use comments to ask for clarification, rather than using an answer post. I'm flagging this post for deletion.
 ```
