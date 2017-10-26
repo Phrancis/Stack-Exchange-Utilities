@@ -42,9 +42,29 @@ Use for questions where the code is either not written using a real language (pe
 Welcome to Code Review. The code you presented in its current form is not meaningfully reviewable. We only review real, working code. If you edit your question to contain your actual code we can review it for improvements. See [What topics can I ask about?](https://codereview.stackexchange.com/help/on-topic) for reference.
 ```
 
+### No Description or Context
+
+Use for questions where little or no explanation is provided. This can often reasonably justify a vote to close as "Unclear what you're asking."
+
+> This question is incomplete. To help reviewers give you better answers, please add sufficient context to your question. The more you tell us about what your code does and what the purpose of doing that is, the easier it will be for reviewers to help you. [Questions should include a description of what the code does](https://codereview.meta.stackexchange.com/a/1231/42632).
+
+```
+This question is incomplete. To help reviewers give you better answers, please add sufficient context to your question. The more you tell us about what your code does and what the purpose of doing that is, the easier it will be for reviewers to help you. [Questions should include a description of what the code does](https://codereview.meta.stackexchange.com/a/1231/42632).
+```
+
+### Poor Title
+
+Use for questions which have titles like _"How can I improve/shorten/speed up this code?"_.
+
+> The current question title, which states your concerns about the code, applies to too many questions on this site to be useful. The site standard is for the title to simply state the task accomplished by the code. Please see [ask] for examples, and revise the title accordingly.
+
+```
+The current question title, which states your concerns about the code, applies to too many questions on this site to be useful. The site standard is for the title to simply state the task accomplished by the code. Please see [ask] for examples, and revise the title accordingly.
+```
+
 ### Code Behind Link
 
-Use for questions where the code is not included in the post, and rather is behind a link, for example Github, repl.it, jsfiddle, etc.
+Use for questions where the code is not included in the post, and rather is behind a link, for example Github, gist, pastebin, repl.it, jsfiddle, sqlfiddle, etc.
 
 > Welcome to Code Review. Unfortunately your question is off-topic as of now, as the code to be reviewed must be [present in the question](https://codereview.meta.stackexchange.com/questions/1308). Code behind links is considered non-reviewable. Please add the code you want reviewed in your question. Thank you.
 
