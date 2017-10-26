@@ -2,44 +2,46 @@
 
 The normal text preview is for reference. For copy-paste purposes, triple-click the text block and copy the text; once you paste it on the site the markdown will be formatted correctly.
 
+Note that, for first time users, it is a good idea to add _"Welcome to Code Review."_ in front of the block of text, to make the user feel welcome even if their question is poor or off-topic.
+
 ## For Questions
 
 ### Broken Code
 
 Use for questions where the code is not working correctly. It links to the Stack Overflow "how to ask" page so the user can read their guidelines before posting, to avoid getting down-voted or closed there.
 
-> Welcome to Code Review. If your code is not working correctly, it is off-topic for this site. You might try [Stack Overflow](https://stackoverflow.com/help/how-to-ask) if you can word the question in a way that fits the criteria on that page. Once your code works correctly, you're welcome to ask a new question here and we can then help you improve it!
+> If your code is not working correctly, it is off-topic for this site. You might try [Stack Overflow](https://stackoverflow.com/help/how-to-ask) if you can word the question in a way that fits the criteria on that page. Once your code works correctly, you're welcome to ask a new question here and we can then help you improve it!
 
 ```
-Welcome to Code Review. If your code is not working correctly, it is off-topic for this site. You might try [Stack Overflow](https://stackoverflow.com/help/how-to-ask) if you can word the question in a way that fits the criteria on that page. Once your code works correctly, you're welcome to ask a new question here and we can then help you improve it!
+If your code is not working correctly, it is off-topic for this site. You might try [Stack Overflow](https://stackoverflow.com/help/how-to-ask) if you can word the question in a way that fits the criteria on that page. Once your code works correctly, you're welcome to ask a new question here and we can then help you improve it!
 ```
 
 ### Code Not Written
 
 Use for questions where the OP wants all or part of the code written or modified. 
 
-> Welcome to Code Review. Asking for advice on code yet to be written or implemented is off-topic for this site. See [What topics can I ask about?](https://codereview.stackexchange.com/help/on-topic) for reference. Once you have written working code, you're welcome to ask a new question here and we can then help you improve it!
+> Asking for advice on code yet to be written or implemented is off-topic for this site. See [What topics can I ask about?](https://codereview.stackexchange.com/help/on-topic) for reference. Once you have written working code, you're welcome to ask a new question here and we can then help you improve it!
 
 ```
-Welcome to Code Review. Asking for advice on code yet to be written or implemented is off-topic for this site. See [What topics can I ask about?](https://codereview.stackexchange.com/help/on-topic) for reference. Once you have written working code, you're welcome to ask a new question here and we can then help you improve it!
+Asking for advice on code yet to be written or implemented is off-topic for this site. See [What topics can I ask about?](https://codereview.stackexchange.com/help/on-topic) for reference. Once you have written working code, you're welcome to ask a new question here and we can then help you improve it!
 ```
 
 This version is intended more so for questions of the nature _"I need to do X, can you help writing the code?"_
 
-> Welcome to Code Review. We do not provide code-writing servicces here. We recommend that you search online tutorials and examples in order for you to learn how to write your own code. See [What topics can I ask about?](https://codereview.stackexchange.com/help/on-topic) for reference. Once you have written working code, you're welcome to ask a new question here and we can then help you improve it!
+> We do not provide code-writing servicces here. We recommend that you search online tutorials and examples in order for you to learn how to write your own code. See [What topics can I ask about?](https://codereview.stackexchange.com/help/on-topic) for reference. Once you have written working code, you're welcome to ask a new question here and we can then help you improve it!
 
 ```
-Welcome to Code Review. We do not provide code-writing servicces here. We recommend that you search online tutorials and examples in order for you to learn how to write your own code. See [What topics can I ask about?](https://codereview.stackexchange.com/help/on-topic) for reference. Once you have written working code, you're welcome to ask a new question here and we can then help you improve it!
+We do not provide code-writing servicces here. We recommend that you search online tutorials and examples in order for you to learn how to write your own code. See [What topics can I ask about?](https://codereview.stackexchange.com/help/on-topic) for reference. Once you have written working code, you're welcome to ask a new question here and we can then help you improve it!
 ```
 
 ### Pseudo/Example/Stub Code
 
 Use for questions where the code is either not written using a real language (pesudo-code), is obviously example code rather than real implementation (e.g.: `function MyFunction(foo, bar)`), or where important parts of the code have been omitted (e.g.: `// ... validation methods here...`).
 
-> Welcome to Code Review. The code you presented in its current form is not meaningfully reviewable. We only review real, working code. If you edit your question to contain your actual code we can review it for improvements. See [What topics can I ask about?](https://codereview.stackexchange.com/help/on-topic) for reference.
+> The code you presented in its current form is not meaningfully reviewable. We only review real, working code. If you edit your question to contain your actual code we can review it for improvements. See [What topics can I ask about?](https://codereview.stackexchange.com/help/on-topic) for reference.
 
 ```
-Welcome to Code Review. The code you presented in its current form is not meaningfully reviewable. We only review real, working code. If you edit your question to contain your actual code we can review it for improvements. See [What topics can I ask about?](https://codereview.stackexchange.com/help/on-topic) for reference.
+The code you presented in its current form is not meaningfully reviewable. We only review real, working code. If you edit your question to contain your actual code we can review it for improvements. See [What topics can I ask about?](https://codereview.stackexchange.com/help/on-topic) for reference.
 ```
 
 ### No Description or Context
@@ -54,7 +56,7 @@ This question is incomplete. To help reviewers give you better answers, please a
 
 ### Poor Title
 
-Use for questions which have titles like _"How can I improve/shorten/speed up this code?"_.
+Use for questions which have generic titles like _"How can I improve/shorten/speed up this code?"_.
 
 > The current question title, which states your concerns about the code, applies to too many questions on this site to be useful. The site standard is for the title to simply state the task accomplished by the code. Please see [ask] for examples, and revise the title accordingly.
 
@@ -66,10 +68,20 @@ The current question title, which states your concerns about the code, applies t
 
 Use for questions where the code is not included in the post, and rather is behind a link, for example Github, gist, pastebin, repl.it, jsfiddle, sqlfiddle, etc.
 
-> Welcome to Code Review. Unfortunately your question is off-topic as of now, as the code to be reviewed must be [present in the question](https://codereview.meta.stackexchange.com/questions/1308). Code behind links is considered non-reviewable. Please add the code you want reviewed in your question. Thank you.
+> Unfortunately your question is off-topic as of now, as the code to be reviewed must be [present in the question](https://codereview.meta.stackexchange.com/questions/1308). Code behind links is considered non-reviewable. Please add the code you want reviewed in your question. Thank you.
 
 ```
-Welcome to Code Review. Unfortunately your question is off-topic as of now, as the code to be reviewed must be [present in the question](https://codereview.meta.stackexchange.com/questions/1308). Code behind links is considered non-reviewable. Please add the code you want reviewed in your question. 
+Unfortunately your question is off-topic as of now, as the code to be reviewed must be [present in the question](https://codereview.meta.stackexchange.com/questions/1308). Code behind links is considered non-reviewable. Please add the code you want reviewed in your question. 
+```
+
+### Asking for Explanation of Code
+
+Use for questions where the user is looking for someone to explain the code to them. Presumably, it is not code that they have written themselves
+
+> This question doesn't reflect what the site is about. We review code that you have written for improvements. It's not on topic to ask for explanations of code that has been written by someone other than you, or in general code that you do not understand. See [What topics can I ask about?](https://codereview.stackexchange.com/help/on-topic).
+
+```
+This question doesn't reflect what the site is about. We review code that you have written for improvements. It's not on topic to ask for explanations of code that has been written by someone other than you, or in general code that you do not understand. See [What topics can I ask about?](https://codereview.stackexchange.com/help/on-topic).
 ```
 
 ### Answer Invalidation
@@ -99,8 +111,8 @@ The answer you posted does not attempt to review the post in question. See [How 
 
 Use for answers which are mostly or entirely links to another site, whether on Stack Overflow/Stack Exchange or an external resource.
 
-> Thank you for attempting to answer. Link-only answers are discouraged in part because links can become stale or broken, and also because it doesn't really provide a review of the code in question. See [How do I write a good answer?](https://codereview.stackexchange.com/help/how-to-answer) for reference.
+> Link-only answers are discouraged in part because links can become stale or broken, and also because it doesn't really provide a review of the code in question. See [How do I write a good answer?](https://codereview.stackexchange.com/help/how-to-answer) for reference.
 
 ```
-Thank you for attempting to answer. Link-only answers are discouraged in part because links can become stale or broken, and also because it doesn't really provide a review of the code in question. See [How do I write a good answer?](https://codereview.stackexchange.com/help/how-to-answer) for reference.
+Link-only answers are discouraged in part because links can become stale or broken, and also because it doesn't really provide a review of the code in question. See [How do I write a good answer?](https://codereview.stackexchange.com/help/how-to-answer) for reference.
 ```
