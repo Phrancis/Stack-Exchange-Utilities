@@ -1,5 +1,7 @@
 # Code Review Copy-Paste
 
+The normal text preview is for reference. For copy-paste purposes, triple-click the text block and copy the text; once you paste it on the site the markdown will be formatted correctly.
+
 ### Broken Code
 
 Welcome to Code Review. If your code is not working correctly, it is off-topic for this site. You might try [Stack Overflow](https://stackoverflow.com/help/how-to-ask) if you can word the question in a way that fits the criteria on that page. Once your code works correctly, you're welcome to ask a new question here and we can then help you improve it!
