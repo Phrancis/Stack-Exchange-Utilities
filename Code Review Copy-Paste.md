@@ -58,10 +58,10 @@ This question is incomplete. To help reviewers give you better answers, please a
 
 Use for questions which have generic titles like _"How can I improve/shorten/speed up this code?"_.
 
-> The current question title, which states your concerns about the code, applies to too many questions on this site to be useful. The site standard is for the title to simply state the task accomplished by the code. Please see [ask] for examples, and revise the title accordingly.
+> The current question title, which states your concerns about the code, applies to too many questions on this site to be useful. The site standard is for the title to simply state the task accomplished by the code. Please see [How do I ask a good question?](https://codereview.stackexchange.com/help/how-to-ask). for examples, and revise the title accordingly.
 
 ```
-The current question title, which states your concerns about the code, applies to too many questions on this site to be useful. The site standard is for the title to simply state the task accomplished by the code. Please see [ask] for examples, and revise the title accordingly.
+The current question title, which states your concerns about the code, applies to too many questions on this site to be useful. The site standard is for the title to simply state the task accomplished by the code. Please see [How do I ask a good question?](https://codereview.stackexchange.com/help/how-to-ask). for examples, and revise the title accordingly.
 ```
 
 ### Code Behind Link
@@ -83,6 +83,17 @@ Use for questions where the user is looking for someone to explain the code to t
 ```
 This question doesn't reflect what the site is about. We review code that you have written for improvements. It's not on topic to ask for explanations of code that has been written by someone other than you, or in general code that you do not understand. See [What topics can I ask about?](https://codereview.stackexchange.com/help/on-topic).
 ```
+
+### Challenge Description Behind a Link
+
+Use for "programming challenge" questions where the description of the challenge is behind a link, rather than included as part of the question. 
+
+> Links can rot or become broken. [Please include a description of the challenge here in your question.](https://codereview.meta.stackexchange.com/a/1994/42632)
+
+```
+Links can rot or become broken. [Please include a description of the challenge here in your question.](https://codereview.meta.stackexchange.com/a/1994/42632)
+```
+
 
 ### Answer Invalidation
 
@@ -109,10 +120,20 @@ The answer you posted does not attempt to review the post in question. See [How 
 
 ### Link Only Answer
 
-Use for answers which are mostly or entirely links to another site, whether on Stack Overflow/Stack Exchange or an external resource.
+Use for answers which are mostly or entirely links to another site, whether pointing to Stack Overflow/Stack Exchange or an external resource.
 
 > Link-only answers are discouraged in part because links can become stale or broken, and also because it doesn't really provide a review of the code in question. See [How do I write a good answer?](https://codereview.stackexchange.com/help/how-to-answer) for reference.
 
 ```
 Link-only answers are discouraged in part because links can become stale or broken, and also because it doesn't really provide a review of the code in question. See [How do I write a good answer?](https://codereview.stackexchange.com/help/how-to-answer) for reference.
+```
+
+## Answer which is a Question
+
+Use for answers which really should be questions of their own. 
+
+> This isn't an answer to the question. If you have another question, please ask it by clicking the [Ask Question](http://codereview.stackexchange.com/questions/ask) button. If you are uncertain, take a look at [How do I ask a good question?](https://codereview.stackexchange.com/help/how-to-ask)
+
+```
+This isn't an answer to the question. If you have another question, please ask it by clicking the [Ask Question](http://codereview.stackexchange.com/questions/ask) button. If you are uncertain, take a look at [How do I ask a good question?](https://codereview.stackexchange.com/help/how-to-ask)
 ```
