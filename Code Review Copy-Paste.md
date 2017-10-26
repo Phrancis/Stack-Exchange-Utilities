@@ -2,6 +2,8 @@
 
 The normal text preview is for reference. For copy-paste purposes, triple-click the text block and copy the text; once you paste it on the site the markdown will be formatted correctly.
 
+## For Questions
+
 ### Broken Code
 
 Welcome to Code Review. If your code is not working correctly, it is off-topic for this site. You might try [Stack Overflow](https://stackoverflow.com/help/how-to-ask) if you can word the question in a way that fits the criteria on that page. Once your code works correctly, you're welcome to ask a new question here and we can then help you improve it!
@@ -41,4 +43,23 @@ I have rolled back your last edit. Please don't change or add to the code in you
 
 ```
 I have rolled back your last edit. Please don't change or add to the code in your question after you have received answers. See [What should I do when someone answers my question?](https://codereview.stackexchange.com/help/someone-answers) Thank you.
+```
+
+## For Answers
+
+### Not An Answer
+
+The answer you posted does not attempt to review the post in question. See [How do I write a good answer?](https://codereview.stackexchange.com/help/how-to-answer) for reference.
+
+```
+The answer you posted does not attempt to review the post in question. See [How do I write a good answer?](https://codereview.stackexchange.com/help/how-to-answer) for reference.
+```
+
+
+### Link Only Answer
+
+Thank you for attempting to answer. Link-only answers are discouraged in part because links can become stale or broken, and also because it doesn't really provide a review of the code in question. See [How do I write a good answer?](https://codereview.stackexchange.com/help/how-to-answer) for reference.
+
+```
+Thank you for attempting to answer. Link-only answers are discouraged in part because links can become stale or broken, and also because it doesn't really provide a review of the code in question. See [How do I write a good answer?](https://codereview.stackexchange.com/help/how-to-answer) for reference.
 ```
