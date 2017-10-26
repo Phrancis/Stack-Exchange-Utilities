@@ -25,7 +25,6 @@ Welcome to Code Review. Asking for advice on code yet to be written or implement
 Welcome to Code Review. The code you presented in its current form is not meaningfully reviewable. We only review real, working code. If you edit your question to contain your actual code we can review it for improvements. See [What topics can I ask about?](https://codereview.stackexchange.com/help/on-topic) for reference.
 
 ```
-
 Welcome to Code Review. The code you presented in its current form is not meaningfully reviewable. We only review real, working code. If you edit your question to contain your actual code we can review it for improvements. See [What topics can I ask about?](https://codereview.stackexchange.com/help/on-topic) for reference.
 ```
 
