@@ -28,10 +28,10 @@ Asking for advice on code yet to be written or implemented is off-topic for this
 
 This version is intended more so for questions of the nature _"I need to do X, can you help writing the code?"_
 
-> We do not provide code-writing servicces here. We recommend that you search online tutorials and examples in order for you to learn how to write your own code. See [What topics can I ask about?](https://codereview.stackexchange.com/help/on-topic) for reference. Once you have written working code, you're welcome to ask a new question here and we can then help you improve it!
+> We do not provide code-writing services here. We recommend that you search online tutorials and examples in order for you to learn how to write your own code. See [What topics can I ask about?](https://codereview.stackexchange.com/help/on-topic) for reference. Once you have written working code, you're welcome to ask a new question here and we can then help you improve it!
 
 ```
-We do not provide code-writing servicces here. We recommend that you search online tutorials and examples in order for you to learn how to write your own code. See [What topics can I ask about?](https://codereview.stackexchange.com/help/on-topic) for reference. Once you have written working code, you're welcome to ask a new question here and we can then help you improve it!
+We do not provide code-writing services here. We recommend that you search online tutorials and examples in order for you to learn how to write your own code. See [What topics can I ask about?](https://codereview.stackexchange.com/help/on-topic) for reference. Once you have written working code, you're welcome to ask a new question here and we can then help you improve it!
 ```
 
 ### Pseudo / Example / Stub Code
