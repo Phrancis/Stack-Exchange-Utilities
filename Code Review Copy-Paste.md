@@ -78,10 +78,10 @@ Unfortunately your question is off-topic as of now, as the code to be reviewed m
 
 Use for questions where the user is looking for someone to explain the code to them. Presumably, it is not code that they have written themselves
 
-> This question doesn't reflect what the site is about. We review code that you have written for improvements. It's not on topic to ask for explanations of code that has been written by someone other than you, or in general code that you do not understand. See [What topics can I ask about?](https://codereview.stackexchange.com/help/on-topic).
+> This question doesn't reflect what the site is about. We review code that you have written for improvements. It's not on-topic to ask for an explanation of code that has been written by someone other than you, or, in general, of code that you do not understand. See [What topics can I ask about?](https://codereview.stackexchange.com/help/on-topic).
 
 ```
-This question doesn't reflect what the site is about. We review code that you have written for improvements. It's not on topic to ask for explanations of code that has been written by someone other than you, or in general code that you do not understand. See [What topics can I ask about?](https://codereview.stackexchange.com/help/on-topic).
+This question doesn't reflect what the site is about. We review code that you have written for improvements. It's not on-topic to ask for an explanation of code that has been written by someone other than you, or, in general, of code that you do not understand. See [What topics can I ask about?](https://codereview.stackexchange.com/help/on-topic).
 ```
 
 ### Challenge Description Behind a Link
