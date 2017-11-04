@@ -16,7 +16,7 @@ Use for questions where the code is not working correctly. It links to the Stack
 If your code is not working correctly, it is off-topic for this site. You might try [Stack Overflow](https://stackoverflow.com/help/how-to-ask) if you can word the question in a way that fits the criteria on that page. Once your code works correctly, you're welcome to ask a new question here and we can then help you improve it!
 ```
 
-### Code Not Written
+### Code Not Written Yet
 
 Use for questions where the OP wants all or part of the code written or modified. 
 
@@ -44,7 +44,7 @@ Use for questions where the code is either not written using a real language (pe
 The code you presented in its current form is not meaningfully reviewable. We only review real, working code. If you edit your question to contain your actual code we can review it for improvements. See [What topics can I ask about?](https://codereview.stackexchange.com/help/on-topic) for reference.
 ```
 
-### No Description or Context
+### No Description or Context Provided
 
 Use for questions where little or no explanation is provided. This can often reasonably justify a vote to close as "Unclear what you're asking."
 
@@ -64,7 +64,7 @@ Use for questions which have generic titles like _"How can I improve/shorten/spe
 The current question title, which states your concerns about the code, applies to too many questions on this site to be useful. The site standard is for the title to simply state the task accomplished by the code. Please see [How do I ask a good question?](https://codereview.stackexchange.com/help/how-to-ask). for examples, and revise the title accordingly.
 ```
 
-### Code Behind Link
+### Code Behind a Link
 
 Use for questions where the code is not included in the post, and rather is behind a link, for example Github, gist, pastebin, repl.it, jsfiddle, sqlfiddle, etc.
 
@@ -94,7 +94,6 @@ Use for "programming challenge" questions where the description of the challenge
 Links can rot or become broken. [Please include a description of the challenge here in your question.](https://codereview.meta.stackexchange.com/a/1994/42632)
 ```
 
-
 ### Answer Invalidation
 
 Use for edits to questions that do invalidate answers, for example the OP changing or adding updated code into the question after receiving answers. Useful to handle messages from Duga bot in [The 2nd Monitor](https://chat.stackexchange.com/rooms/8595/the-2nd-monitor) like _"possible answer invalidation by [user] on question by [user]"_.
@@ -118,7 +117,7 @@ The answer you posted does not attempt to review the post in question. See [How 
 ```
 
 
-### Link Only Answer
+### Link-only Answer
 
 Use for answers which are mostly or entirely links to another site, whether pointing to Stack Overflow/Stack Exchange or an external resource.
 
@@ -148,7 +147,7 @@ Use for answers of the style _"try this instead"_ to encourage the writer to add
 You have presented an alternative solution, but haven't reviewed the code. Please explain your reasoning (how your solution works and why it is better than the original) so that the author and other readers can learn from your thought process.
 ```
 
-### Answer Should Be A Comment
+### Answer should be a Comment
 
 Use for answers that really should be a comment. There are 2 variations, based on the reputation of the user.
 
