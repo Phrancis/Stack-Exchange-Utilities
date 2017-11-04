@@ -34,7 +34,7 @@ This version is intended more so for questions of the nature _"I need to do X, c
 We do not provide code-writing servicces here. We recommend that you search online tutorials and examples in order for you to learn how to write your own code. See [What topics can I ask about?](https://codereview.stackexchange.com/help/on-topic) for reference. Once you have written working code, you're welcome to ask a new question here and we can then help you improve it!
 ```
 
-### Pseudo/Example/Stub Code
+### Pseudo / Example / Stub Code
 
 Use for questions where the code is either not written using a real language (pesudo-code), is obviously example code rather than real implementation (e.g.: `function MyFunction(foo, bar)`), or where important parts of the code have been omitted (e.g.: `// ... validation methods here...`).
 
@@ -148,7 +148,7 @@ Use for answers of the style _"try this instead"_ to encourage the writer to add
 You have presented an alternative solution, but haven't reviewed the code. Please explain your reasoning (how your solution works and why it is better than the original) so that the author and other readers can learn from your thought process.
 ```
 
-### Answer Asking for Clarification
+### Answer Should Be A Comment
 
 Use for answers that really should be a comment. There are 2 variations, based on the reputation of the user.
 
