@@ -4,7 +4,7 @@ The normal text preview is for reference. For copy-paste purposes, triple-click 
 
 Note that, for first time users, it is a good idea to add _"Welcome to Code Review."_ in front of the block of text, to make the user feel welcome even if their first post is poor or off-topic.
 
-## For Questions
+# For Questions
 
 ### Broken Code
 
@@ -105,7 +105,7 @@ Use for edits to questions that do invalidate answers, for example the OP changi
 I have rolled back your last edit. Please don't change or add to the code in your question after you have received answers. See [What should I do when someone answers my question?](https://codereview.stackexchange.com/help/someone-answers) Thank you.
 ```
 
-## For Answers
+# For Answers
 
 ### Not An Answer
 
