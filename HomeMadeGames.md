@@ -15,3 +15,10 @@ This is a collection of board-type games which are playable online, as well as w
 - [Play Royal Game of Ur locally (2 players on same computer)](http://gbg.zomis.net:42637/#/games/UR/1/)
     - Game starts right away, with a blue and red player in the same browser window
 - Visit the source code repository: [Zomis/Server2](https://github.com/Zomis/Server2)
+
+## Checkers Treasury
+
+Play a few varieties of Checkers online against another player or an AI. Includes a board editor, game moves history, multiple GUI themes.
+
+- [Play Checkers Treasury](http://checkerstreasury.azurewebsites.net/)
+- Visit the source code repository: [Hosch250/CheckersWebsite](https://github.com/Hosch250/CheckersWebsite)
