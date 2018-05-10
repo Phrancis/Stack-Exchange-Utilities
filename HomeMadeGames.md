@@ -16,6 +16,7 @@ This is a collection of board-type games which are playable online, as well as w
     - Game starts right away, with a blue and red player in the same browser window
 - [Play Minesweeper Flags](http://www.minesweeperflags.net/play)
 - Visit the source code repository: [Zomis/Server2](https://github.com/Zomis/Server2) (Ur, Connect4, UTTT)
+- Source code repository for Minesweeper Flags is private
 - Created by: [Simon Forsberg](https://codereview.stackexchange.com/users/31562/)
 
 ## Checkers Treasury
@@ -28,7 +29,7 @@ Play a few varieties of Checkers online against another player or an AI. Include
 
 ## Cardshifter
 
-An online card game where you battle another player or an AI for victory. Currently has 2 game modes: Cyborg Chronicles is a dystopion, cyper-punk future where Bios and Mechs fight; Mythos features deities, heroes and creatures from Greek, Hindu and Chinese mythology.
+An online card game where you battle another player or an AI for victory. Currently has 2 game modes: Cyborg Chronicles is a dystopion, cyper-punk future where Bios and Mechs fight; Mythos features deities, heroes and creatures from various mythologies.
 
 - [Play Cardshifter](http://gbg.zomis.net:22739/)
     - *Temporary* - Choose server: **Other...**
@@ -40,3 +41,11 @@ An online card game where you battle another player or an AI for victory. Curren
     - Select your cards
     - Start game
 - Visit the source code repositories: [Cardshifter](https://github.com/Cardshifter)
+
+## Pixelpocalypse Games
+
+A collection of multi-platforms (iOS, Android, desktop) games, including Castleparts, Ballyhoop Basketball, and VoxelCity. 
+
+- [Play Pixelpocalypse Games](http://www.pixelpocalypsegames.com/)
+- Source code repositories are private
+
