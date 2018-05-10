@@ -18,7 +18,21 @@ This is a collection of board-type games which are playable online, as well as w
 
 ## Checkers Treasury
 
-Play a few varieties of Checkers online against another player or an AI. Includes a board editor, game moves history, multiple GUI themes.
+Play a few varieties of Checkers online against another player or an AI. Includes a board editor, game moves history, multiple GUI themes, and more.
 
 - [Play Checkers Treasury](http://checkerstreasury.azurewebsites.net/)
 - Visit the source code repository: [Hosch250/CheckersWebsite](https://github.com/Hosch250/CheckersWebsite)
+
+## Cardshifter
+
+An online card game where you battle another player or an AI for victory. Currently has 2 game modes: Cyborg Chronicles is a dystopion, cyper-punk future where Bios and Mechs fight; Mythos features deities, heroes and creatures from Greek, Hindu and Chinese mythology.
+
+- [Play Cardshifter](http://gbg.zomis.net:22739/)
+    - *Temporary* - Choose server: **Other...**
+    - *Temporary* - Enter server address: `stats.zomis.net:22738`
+    - Log in
+    - From the chat lobby, select a player or AI to invite (right)
+    - Select a game to play (bottom)
+    - Click "Invite"
+    - Select your cards
+    - Start game
