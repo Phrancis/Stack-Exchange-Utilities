@@ -49,3 +49,11 @@ A collection of multi-platforms (iOS, Android, desktop) games, including Castlep
 - [Play Pixelpocalypse Games](http://www.pixelpocalypsegames.com/)
 - Source code repositories are private
 
+## FreezePhoenix Snake Game
+
+A browser-based remake of the classic Snake game.
+
+- [Play FreezePhoenix Snake Game](https://freezephoenix.github.io/FireSnake/)
+    - Game starts as soon as page loads
+    - Use arrow keys or WASD to control the snake
+    - Reload the page to start a new game
