@@ -55,5 +55,5 @@ A browser-based remake of the classic Snake game.
 
 - [Play FreezePhoenix Snake Game](https://freezephoenix.github.io/FireSnake/)
     - Game starts as soon as page loads
-    - Use arrow keys or WASD to control the snake
-    - Reload the page to start a new game
+    - Use arrow keys or WASD, (or swiping on mobile) to control the snake
+    - Press "r" to start a new game (Reload the page on mobile)
