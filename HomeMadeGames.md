@@ -8,11 +8,11 @@ This page contains links and information about multiple games created and being 
 
 This is a collection of board-type games which are playable online, as well as with AIs. These include the Royal Game of Ur, Connect4, and Ultimate Tic-Tac-Toe. Zomis games also includes Minesweeper Flags, which has been online for over 10 years!
 
-- [Play Royal Game of Ur, Connect4, Ultimate Tic-Tac-Toe with online server](http://gbg.zomis.net:42637/)
+- [Play Royal Game of Ur, Connect4, Ultimate Tic-Tac-Toe with online server](http://games.zomis.net/)
     - Select **Zomis** server
     - Connect with your Github account, or log in as a guest
     - Invite a player or an AI to a game
-- [Play Royal Game of Ur locally (2 players on same computer)](http://gbg.zomis.net:42637/#/games/UR/1/)
+- [Play Royal Game of Ur locally (2 players on same computer)](http://games.zomis.net/#/games/UR/1/)
     - Game starts right away, with a blue and red player in the same browser window
 - [Play Minesweeper Flags](http://www.minesweeperflags.net/play)
 - Visit the source code repository: [Zomis/Server2](https://github.com/Zomis/Server2) (Ur, Connect4, UTTT)
@@ -31,7 +31,7 @@ Play a few varieties of Checkers online against another player or an AI. Include
 
 An online card game where you battle another player or an AI for victory. Currently has 2 game modes: Cyborg Chronicles is a dystopion, cyper-punk future where Bios and Mechs fight; Mythos features deities, heroes and creatures from various mythologies.
 
-- [Play Cardshifter](http://gbg.zomis.net:22739/)
+- [Play Cardshifter](http://cardshifter.zomis.net/)
     - *Temporary* - Choose server: **Other...**
     - *Temporary* - Enter server address: `stats.zomis.net:22738`
     - Log in
