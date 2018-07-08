@@ -58,10 +58,10 @@ This question is incomplete. To help reviewers give you better answers, please a
 
 Use for questions which have generic titles like _"How can I improve/shorten/speed up this code?"_.
 
-> The current question title, which states your concerns about the code, applies to too many questions on this site to be useful. The site standard is for the title to simply state the task accomplished by the code. Please see [How do I ask a good question?](https://codereview.stackexchange.com/help/how-to-ask). for examples, and revise the title accordingly.
+> The current question title, which states your concerns about the code, applies to too many questions on this site to be useful. The site standard is for the title to simply state the task accomplished by the code. Please see [How do I ask a good question?](https://codereview.stackexchange.com/help/how-to-ask) for examples, and revise the title accordingly.
 
 ```
-The current question title, which states your concerns about the code, applies to too many questions on this site to be useful. The site standard is for the title to simply state the task accomplished by the code. Please see [How do I ask a good question?](https://codereview.stackexchange.com/help/how-to-ask). for examples, and revise the title accordingly.
+The current question title, which states your concerns about the code, applies to too many questions on this site to be useful. The site standard is for the title to simply state the task accomplished by the code. Please see [How do I ask a good question?](https://codereview.stackexchange.com/help/how-to-ask) for examples, and revise the title accordingly.
 ```
 
 ### Code Behind a Link
