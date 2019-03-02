@@ -56,3 +56,9 @@ A browser-based remake of the classic Snake game.
     - Game starts as soon as page loads
     - Use arrow keys or WASD, (or swiping on mobile) to control the snake
     - Press "r" to start a new game (Reload the page on mobile)
+    
+## PDB 
+A game of management and rpg mixed togheter. This game is inpired by Ogame, Tribal wars and mixed some element from RPG games like having a character. This game is in early development.
+
+-[Check the code on Github](https://github.com/banane-io/PDB)
+    -If you want to participate, just chat with me on Gitter or on our Code Review Chatroom.
