@@ -1,3 +1,6 @@
+# Code Review Copy-Paste Raw
+
+```
 ###[Q] Broken Code - Use for questions where the code is not working correctly. It links to the Stack Overflow "how to ask" page so the user can read their guidelines before posting, to avoid getting down-voted or closed there.
 If your code is not working correctly, it is off-topic for this site. You might try [Stack Overflow](https://stackoverflow.com/help/how-to-ask) if you can word the question in a way that fits the criteria on that page. Once your code works correctly, you're welcome to ask a new question here and we can then help you improve it!
 
@@ -50,3 +53,4 @@ This is really a comment, not an answer. Please use comments to ask for clarific
 
 ###[Q] Off-topic because it belongs on Code Review - Use to inform a Stack Overflow user who comments on a question with something like "<i>I'm voting to close this question as off-topic because it belongs on Code Review.</i>"
 It is okay to recommend the OP post on CR but in the future, please don't use Code Review as a reason to close a question. Evaluate the request and use a reason like *too broad*, *primarily opinion-based*, etc. Then you can mention to the OP that it can be posted on Code Review if it is [on-topic](https://codereview.stackexchange.com/help/on-topic). Please see the section **What you should not do** in [this answer to A guide to Code Review for Stack Overflow users](https://codereview.meta.stackexchange.com/a/5778)
+```
