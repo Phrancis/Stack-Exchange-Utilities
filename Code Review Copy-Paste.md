@@ -1,6 +1,6 @@
 # Code Review Copy-Paste
 
-The normal text preview is for reference. For copy-paste purposes, triple-click the text block and copy the text; once you paste it on the site the markdown will be formatted correctly.
+The normal text preview is for reference. For copy-paste purposes, triple-click the text block and copy the text; once you paste it on the site the markdown will be formatted correctly. If you have the auto comment script then you can alternatively import all of these from [here](CodeReviewCopy-PasteRaw.md).
 
 Note that, for first time users, it is a good idea to add _"Welcome to Code Review."_ in front of the block of text, to make the user feel welcome even if their first post is poor or off-topic.
 
