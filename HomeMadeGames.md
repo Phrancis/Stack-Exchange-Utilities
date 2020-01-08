@@ -8,16 +8,14 @@ This page contains links and information about multiple games created and being 
 
 This is a collection of board-type games which are playable online, as well as with AIs. These include the Royal Game of Ur, Connect4, and Ultimate Tic-Tac-Toe. Zomis games also includes Minesweeper Flags, which has been online for over 10 years!
 
-- [Play Minesweeper Flags](https://play.minesweeperflags.net/)
-- [Play Royal Game of Ur, Connect4, Ultimate Tic-Tac-Toe with online server](http://games.zomis.net/)
+- [Play Royal Game of Ur, Connect4, 3D Tic-Tac-Toe/Connect4, Reversi, Ultimate Tic-Tac-Toe with online server](https://games.zomis.net/)
     - Select **Zomis** server
     - Connect with your Github account, or log in as a guest
     - Invite a player or an AI to a game
-- [Play Royal Game of Ur locally (2 players on same computer)](http://games.zomis.net/#/games/UR/1/)
-    - Game starts right away, with a blue and red player in the same browser window
-- Visit the source code repository: [Zomis/Server2](https://github.com/Zomis/Server2) (Ur, Connect4, UTTT)
-- Visit source code repository for Minesweeper Flags client: [Zomis/minesweeper-flags-client](https://github.com/Zomis/minesweeper-flags-client)
-- Source code repository for Minesweeper Flags server is private
+    - Visit the source code repository: [Zomis/Server2](https://github.com/Zomis/Server2)
+- [Play Minesweeper Flags](https://play.minesweeperflags.net/)
+    - Visit source code repository for Minesweeper Flags client: [Zomis/minesweeper-flags-client](https://github.com/Zomis/minesweeper-flags-client)
+    - Source code repository for Minesweeper Flags server is private
 - Created by: [Simon Forsberg](https://codereview.stackexchange.com/users/31562/)
 
 ## Checkers Treasury
